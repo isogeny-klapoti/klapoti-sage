@@ -1,0 +1,6 @@
+[submodule "two-isogenies"]
+	path = two-isogenies
+	url = https://github.com/ThetaIsogenies/two-isogenies.git
+[submodule "deuring-2D"]
+	path = deuring-2D
+	url = https://github.com/Jonathke/deuring-2D.git
